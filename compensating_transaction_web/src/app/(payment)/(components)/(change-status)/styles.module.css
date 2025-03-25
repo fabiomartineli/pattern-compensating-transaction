@@ -1,0 +1,15 @@
+.Form {
+    width: 100%; 
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+    margin-bottom: 30px;
+}
+
+.Actions {
+    width: 100%; 
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}

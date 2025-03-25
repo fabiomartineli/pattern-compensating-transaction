@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "alGdjiPHAUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Estudos\\Arquitetura\\Compensating Transaction\\CompensatingTransaction\\MessageBus\\Infra.MessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\awssdk.core\\3.7.402.10\\awssdk.core.3.7.402.10.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.400.104\\awssdk.simplenotificationservice.3.7.400.104.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\awssdk.sqs\\3.7.400.86\\awssdk.sqs.3.7.400.86.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.2\\microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
